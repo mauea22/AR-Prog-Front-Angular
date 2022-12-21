@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { LogoApComponent } from './shared/logo-ap/logo-ap.component';
 import { SocialMediaComponent } from './shared/social-media/social-media.component';
+import { BannerComponent } from './shared/banner/banner.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     LogoApComponent,
-    SocialMediaComponent
+    SocialMediaComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,

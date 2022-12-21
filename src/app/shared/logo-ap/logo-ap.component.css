@@ -1,4 +1,10 @@
 img{
-  background-color: black;
   width: 150px;
+}
+
+img:hover {
+  transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transition: all 500ms ease-in-out
 }
