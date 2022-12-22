@@ -1,0 +1,19 @@
+@media (max-width:600px){
+    .unibcacion{
+    margin-top: -20%;
+    margin-left: 5%;
+    width: auto;
+    height: auto;
+  }
+}
+
+@media (min-width:600px){
+  .unibcacion{
+    margin-top: -100px;
+    margin-left: 5%;
+  }
+
+  img{
+    width: 17%;
+  }
+}

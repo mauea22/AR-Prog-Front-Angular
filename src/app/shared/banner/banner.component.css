@@ -3,9 +3,8 @@
   background-image: url(../../../assets/HD-wallpaper-laptop-keyboard-backlight-dark.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
-}
+  background-position: center;
+  width: auto;
+  height: 500px;
 
-.banner-title{
-  color: white;
 }
